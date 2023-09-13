@@ -16,8 +16,6 @@ Pipe_Line_with_Cookie_Cutter
 
 
 
-y
-
 
 * Free software: MIT license
 * Documentation: https://pipe-line-with-cookie-cutter.readthedocs.io.
